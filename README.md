@@ -31,5 +31,8 @@ Test Dataset:
 In the current working directory download test dataset
 $ git clone https://github.com/florex/resume_corpus
 
+Change the test data path in jupyter notebook before running
 
+
+# Cite
 Jiechieu, K.F.F., Tsopze, N. Skills prediction based on multi-label resume classification using CNN with model predictions explanation. Neural Comput & Applic (2020). https://doi.org/10.1007/s00521-020-05302-x
