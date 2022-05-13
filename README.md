@@ -10,11 +10,13 @@ role.
 
 We used 3 resume datasets
 Training Dataset:
+
 – The training dataset if from kaggle
 – Data is CSV format
 – https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset?select=data
-– https://www.kaggle.com/code/gauravduttakiit/resume-screening-using-machine-learning/d
-ata
+– https://www.kaggle.com/code/gauravduttakiit/resume-screening-using-machine-learning/data
+
+
 Test Dataset:
 – Test dataset is from a git repository
 – https://github.com/florex/resume_corpus
