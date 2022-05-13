@@ -19,5 +19,7 @@ Training Dataset:
 
 Test Dataset:
 – Test dataset is from a git repository
+
 – https://github.com/florex/resume_corpus
+
 – The dataset has PDF format of resumes grouped by job category
